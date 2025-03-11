@@ -7,6 +7,14 @@
     "chainId": 101,
     "logoURI": "https://arweave.net/eVM_ISKeueHIIWshUqXYEdHPCuHvxdZzQinHBZA2v9w"
   },
+  "AWzyh3tqVGgPaJY26wm2hLcb6v9uuKXx8oub8cvwWY97": {
+    "address": "AWzyh3tqVGgPaJY26wm2hLcb6v9uuKXx8oub8cvwWY97",
+    "name": "Saber bookSOL-vSOL LP",
+    "symbol": "bookSOL-vSOL",
+    "decimals": 9,
+    "chainId": 101,
+    "logoURI": "https://arweave.net/y457fjcmiFb9Hru_iJ1VosxcvWrzDgD82hQoS5aiZoA"
+  },
   "78SeG6RWYHFUHrVRjJpi8aHnkXcKhNii72XibGt2KJGi": {
     "address": "78SeG6RWYHFUHrVRjJpi8aHnkXcKhNii72XibGt2KJGi",
     "name": "Saber broSOL-vSOL LP",
