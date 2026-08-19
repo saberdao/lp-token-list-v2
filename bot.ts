@@ -9,7 +9,7 @@ const saveDataToGitHub = async (
   timestamp: number
 ) => {
   const octokit = new Octokit({
-    auth: process.env.G_TOKEN,
+    auth: process.env.GITHUB_TOKEN,
   });
 
   const owner = "saberdao";
